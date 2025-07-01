@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/08705ec6-0db3-4593-b834-abf486cac719)# About-me
+# About-me
 <h1 align="center">Привет 👋, Я Дарья</h1>
 <h3 align="center">Начинающий мобильный разработчик из Минска</h3>
 
@@ -39,8 +39,8 @@
 
 ### 📊 **Моя активность на GitHub**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkhamu&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhamu&layout=compact&theme=radical" />
 </p>
 
 ---
